@@ -28,13 +28,3 @@ A simple RESTful API built with Flask for managing student data, including basic
 | PUT    | `/students/:id`     | Update an existing student by ID  |
 | DELETE | `/students/:id`     | Delete a student by ID            |
 
-## Installation
-
-### Prerequisites
-- Python 3.x
-
-### Steps
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd student_api
